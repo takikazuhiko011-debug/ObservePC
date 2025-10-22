@@ -1,4 +1,4 @@
-ObservePC Ver1.3 — AI対話支援用 PC環境取得ツール
+ObservePC Ver1.3(ObservePC13.zip) — AI対話支援用 PC環境取得ツール
 
 Ver1.2のバグ修正版。「常駐プロセス一覧」は「サードパーティ製プロセス一覧（常駐候補）」へ変更されました。
 
