@@ -77,7 +77,7 @@ ObservePCは、起動時にオプションを指定することで、出力内�
 使用例：
 - ObservePC.exe -L
 - ObservePC.exe -H
-- ObservePC.exe -M="私は設計者です。構造的に応答してください。"
+- ObservePC.exe -M="私は管理者です。構造的に応答してください。"
   
 【開発経緯(前提情報とは)】
 
