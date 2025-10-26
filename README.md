@@ -1,4 +1,4 @@
-# ObservePC Ver1.4 (ObservePC14.zip)
+# ObservePC Ver1.4 (ObservePC141.zip)
 AI対話・技術相談を加速させるPC環境前提情報取得ツール
 
 【Ver1.3アップデート情報】
@@ -8,6 +8,9 @@ AI対話・技術相談を加速させるPC環境前提情報取得ツール
 【Ver1.4アップデート情報】
 - システム管理者やC#学習者など向けに、出力ファイルをLAN経由で送信するテンプレートコードOutputSender.csを追加（SMB/HTTP/Syslog/SMTP）
 - 自動収集項目の追加強化:マザーボード情報拡張、ネットワーク構成情報拡張、OSインストール日、セキュリティ状況(セキュリティソフトの推測)、タスクスケジューラ登録取得
+
+【Ver1.41アップデート情報】
+- ObservePC14.zipに実行ファイルを入れ忘れたので、実行ファイルを追加してObservePC141.zipとしてアップロード
 
 【対象環境】
 - Windows 10 / 11 (Windows Server 2019 Essentialsにて動作確認済み)
