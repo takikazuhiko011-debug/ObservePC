@@ -153,6 +153,7 @@ AIに「適切な指示（プロンプト）」を与えなければ意図通り
 4. 作成された `Program.cs` に、同梱の `Source code_1.5.cs.txt` の内容をすべてコピー＆貼り付けします。
 5. 【参照の追加が必要な場合】コード冒頭の using 文が赤くエラーになる場合は、ソリューションエクスプローラーから「参照の追加」を行い、System.Management と Microsoft.Win32 を手動で追加してください。
 6. PowerShellのバージョン確認は、PowerShellを管理者で実行し、コマンド $PSVersionTable.PSVersion で確認可能です。
+7. コピーが完了したら、上部の「開始」ボタンを押すと実行されます。
 5.【参照の追加が必要な場合】コード冒頭の using 文が赤くエラーになる場合は、ソリューションエクスプローラーから「参照の追加」を行い、System.Management と Microsoft.Win32 を手動で追加してください。
 6.PowerShellのバージョン確認は、PowerShellを管理者で実行し、コマンド $PSVersionTable.PSVersion で確認可能です。
 7.コピーが完了したら、上部の「開始」ボタンを押すと実行されます。
