@@ -1,4 +1,4 @@
-# ObservePC Ver 2.0
+# ObservePC Ver 2.1
 
 ObservePC は、Windows環境の構成情報を整理して出力する  
 インストール不要のシステム情報取得ツールです。
@@ -55,12 +55,12 @@ ObservePCは意図的に
 ## リポジトリ構成
 
 - ObservePC.exe：PC 環境情報取得ツール 実行ファイル
-- Source code_2.0.cs.txt：C# による実装コード（Win32 API + WMI） 
+- Source code_2.1.cs.txt：C# による実装コード（Win32 API + WMI） 
 - OutputSender.cs.txt：出力ファイルを LAN 経由で送信する参考テンプレートコード  
 - ObservePC.cfg.txt:外部設定ファイルのサンプル。使用時はObservePC.cfgへファイル名変更
-- README_v2.0.txt：本ファイル   
-- DOC_v2.0.txt：詳細説明ドキュメント  
-- TECHNICAL_v2.0.txt:外部設定ファイルやソースコード改変など技術情報
+- README_v2.1.txt：本ファイル   
+- DOC_v2.1.txt：詳細説明ドキュメント  
+- TECHNICAL_v2.1.txt:外部設定ファイルやソースコード改変など技術情報
 - user_note.txt：利用者補足情報（自動取得不可項目・通信スタイル）  
 - LICENSE.txt：ライセンス表記  
 
