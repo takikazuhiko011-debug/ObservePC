@@ -57,6 +57,8 @@ Edgeブラウザ情報/FWプロファイル状態 など
 
 ## 使い方
 
+動作環境: Windows 10 / 11 /2019(.NET Framework 4.7.2以上)
+
 ObservePC.exe を実行します（数秒-数十秒で完了します）。
 
 生成されたテキストファイル（PC_Observation_マシン名_日付.txt）を開きます 。
